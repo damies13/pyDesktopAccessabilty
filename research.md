@@ -8,6 +8,9 @@
 
 ## Windows
 
+- https://stackoverflow.com/questions/55547940/how-to-get-a-list-of-the-name-of-every-open-window
+
+
 ## MacOS
 
 - https://stackoverflow.com/questions/52545917/how-can-i-list-all-open-windows-on-mac-from-a-python-script
